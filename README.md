@@ -1,0 +1,2 @@
+# Role-of-Artificial-Intelligence-in-Autonomous-Robots
+This repository presents my CodeAlpha Robotics &amp; Automation Internship project, "Role of Artificial Intelligence in Autonomous Robots." The project explores how Artificial Intelligence (AI) enables autonomous robots to perceive their environment, process sensor data, make intelligent decisions, and perform tasks with minimal human intervention.
